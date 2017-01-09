@@ -1,5 +1,7 @@
 # Shiny, hover labels quickly disappear with ggplot output
 
+![](images/shiny_ggplot_hover_values_disappear_1.png)
+
 Solution requires an initial, non-reactive ggplot object, 
    an initial reactive plot output object,
    and an observeEvent for the hover item, this triggers 
